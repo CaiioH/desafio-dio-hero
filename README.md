@@ -1,4 +1,4 @@
-# Desafio classificador de nivel de Heroi
+# 1️⃣ Desafio classificador de nivel de Heroi
 Primeiro repositorio em Java Script
 
 **O que deve ser utilizado**
@@ -23,4 +23,4 @@ Crie uma variável para armazenar o nome e a quantidade de experiencia (XP) de u
 
 ## Saída 
 Ao final deve se exibir uma mensagem:
-"O Herói de nome **{nome}** está no nível de **{nivel}**
+"O Herói de nome **{nome}** está no nível de **{nivel}**"
